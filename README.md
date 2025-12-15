@@ -57,7 +57,6 @@ Frontend	http://localhost:5173
 Backend	http://localhost:8000
 Swagger Docs	http://localhost:8000/docs
 
-Export to Sheets
 
 API Authentication
 Login endpoint: POST /auth/login
